@@ -8,24 +8,13 @@
 ## Мои проекты
 **Проект блог на Python и Django**<br />
 [Код](https://github.com/Mansur-09595/MANSUR_BLOG) | [Демо](https://musaevblog.herokuapp.com/)<br />
-**Десктоп-чат на Angular и StencilJS**<br />
-Веб-компоненты на StencilJS - [Код](https://github.com/almalib/stencil-chat)<br />
-Бизнес-логика на Angular - [Код](https://github.com/almalib/ng-chat) | [Демо](https://almalib.github.io/ng-chat)<br />
+**Разработка Telegram-Бота на Python**<br />
+[Код](https://github.com/Mansur-09595/tv_programm_bot) | [Демо](https://t.me/Tv_programBot)<br />
+**Проект сайт-блог на Python и Flask**<br />
+[Код](https://github.com/Mansur-09595/Flaskblog)<br />
 **Сайт-портфолио**<br />
-Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-promo)<br />
-Angular - [Код](https://github.com/almalib/ng-promo) | [Демо](https://almalib.github.io/ng-promo)<br />
+[Код](https://github.com/Mansur-09595/portfolio.musaev.github.io) | [Демо](https://kunhmnoykukjfuwvp2lhtw-on.drv.tw/mysite/)<br />
 
-**Приложение список дел на Angular** [Код](https://github.com/almalib/todo-list) | [Демо](https://almalib.github.io/todo-list)<br />
 
-**Тестовое задание для компании Аналитические программные решения**<br />
-Angular - [Код](https://github.com/almalib/crud-app) | [Демо](https://almalib.github.io/crud-app)<br />
-<br/>
-
-**Тестовое задание для компании Funbox**<br />
-Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-funbox)<br />
-Angular - [Код](https://github.com/almalib/ng-funbox) | [Демо](https://almalib.github.io/ng-funbox)<br />
-<br/>
 ## Я всегда на связи в Telegram 
-<a href="https://teleg.run/free_side" rel="nofollow">
-<img src="https://camo.githubusercontent.com/dff510e1fc950068c2459737c7373ebe8c3c95e8d80a477c2268ec589ffd41f1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d7265643f7374796c653d736f6369616c266c6f676f3d74656c656772616d" alt="Telegram" data-canonical-src="https://img.shields.io/badge/Telegram-red?style=social&amp;logo=telegram" style="max-width:100%;">
-</a>
+[![Telegram](https://img.shields.io/badge/Telegram-red?style=social&logo=telegram)](https://t.me/IOIIOIIOII)
