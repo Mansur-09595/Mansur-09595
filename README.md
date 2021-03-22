@@ -3,19 +3,12 @@
 ## В работе использую следующий стек технологий и инструменты
 <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white"> 
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
-<img src="https://img.shields.io/badge/Angular_material-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
-<img src="https://img.shields.io/badge/StencilJS-black?style=for-the-badge&logo=ionic&logoColor=white"> 
+<img src="https://img.shields.io/badge/Flask-007ACC?style=for-the-badge&logo=flask&logoColor=white"> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=white"> 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
 </br>
 
