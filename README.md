@@ -6,9 +6,8 @@
 </br>
 
 ## Мои проекты
-**Проект маркетплейс на Angular и StencilJS**<br />
-Веб-компоненты на StencilJS - [Код](https://github.com/almalib/s-market)<br />
-Бизнес-логика на Angular - [Код](https://github.com/almalib/ng-market) | [Демо](https://almalib.github.io/ng-market)<br />
+**Проект блог на Python и Django**<br />
+[Код](https://github.com/Mansur-09595/MANSUR_BLOG) | [Демо](https://musaevblog.herokuapp.com/)<br />
 **Десктоп-чат на Angular и StencilJS**<br />
 Веб-компоненты на StencilJS - [Код](https://github.com/almalib/stencil-chat)<br />
 Бизнес-логика на Angular - [Код](https://github.com/almalib/ng-chat) | [Демо](https://almalib.github.io/ng-chat)<br />
