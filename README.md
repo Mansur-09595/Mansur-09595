@@ -2,7 +2,7 @@
 </br>
 ## В работе использую следующий стек технологий и инструменты
 <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E"> 
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
+<img src="https://img.shields.io/badge/Django-007ACC?style=for-the-badge&logo=django&logoColor=white"> 
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
 <img src="https://img.shields.io/badge/Angular_material-DD0031?style=for-the-badge&logo=angular&logoColor=white"> 
 <img src="https://img.shields.io/badge/StencilJS-black?style=for-the-badge&logo=ionic&logoColor=white"> 
