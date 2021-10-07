@@ -8,6 +8,8 @@
 ## Мои проекты
 **Проект блог на Python и Django**<br />
 [Код](https://github.com/Mansur-09595/MANSUR_BLOG) | [Демо](https://musaevblog.herokuapp.com/)<br />
+**Проект сайт-администрация пользователей на Python / Django / DRF**<br />
+[Код](https://github.com/Mansur-09595/users_register_view)<br />
 **Разработка Telegram-Бота на Python**<br />
 [Код](https://github.com/Mansur-09595/tv_programm_bot) | [Демо](https://t.me/Tv_programBot)<br />
 **Проект сайт-блог на Python и Flask**<br />
